@@ -110,16 +110,16 @@
     <loc>https://www.pcsnippets.com/california/san-francisco</loc>
   </url>
   <url>
-    <loc>https://www.pcsnippets.com/florida/miami</loc>
-  </url>
-  <url>
-    <loc>https://www.pcsnippets.com/florida/orlando</loc>
-  </url>
-  <url>
     <loc>https://www.pcsnippets.com/colorado/boulder</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/colorado/denver</loc>
+  </url>
+  <url>
+    <loc>https://www.pcsnippets.com/florida/miami</loc>
+  </url>
+  <url>
+    <loc>https://www.pcsnippets.com/florida/orlando</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/idaho/boise</loc>
@@ -194,6 +194,12 @@
     <loc>https://www.pcsnippets.com/new-york/new-york</loc>
   </url>
   <url>
+    <loc>https://www.pcsnippets.com/oklahoma/oklahoma-city</loc>
+  </url>
+  <url>
+    <loc>https://www.pcsnippets.com/oklahoma/tulsa</loc>
+  </url>
+  <url>
     <loc>https://www.pcsnippets.com/oregon/eugene</loc>
   </url>
   <url>
@@ -204,12 +210,6 @@
   </url>
   <url>
     <loc>https://www.pcsnippets.com/texas/houston</loc>
-  </url>
-  <url>
-    <loc>https://www.pcsnippets.com/oklahoma/oklahoma-city</loc>
-  </url>
-  <url>
-    <loc>https://www.pcsnippets.com/oklahoma/tulsa</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/utah/provo</loc>
@@ -254,13 +254,13 @@
     <loc>https://www.pcsnippets.com/california/san-francisco/golden-gate-books</loc>
   </url>
   <url>
-    <loc>https://www.pcsnippets.com/florida/miami/beach-yoga-studio</loc>
-  </url>
-  <url>
     <loc>https://www.pcsnippets.com/colorado/boulder/boulder-yoga-center</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/colorado/denver/mountain-sports-shop</loc>
+  </url>
+  <url>
+    <loc>https://www.pcsnippets.com/florida/miami/beach-yoga-studio</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/florida/orlando/theme-park-souvenirs</loc>
@@ -275,6 +275,9 @@
     <loc>https://www.pcsnippets.com/illinois/chicago/windy-city-pizza</loc>
   </url>
   <url>
+    <loc>https://www.pcsnippets.com/iowa/cedar-rapids/cedar-rapids-tech-store</loc>
+  </url>
+  <url>
     <loc>https://www.pcsnippets.com/illinois/springfield/green-gym</loc>
   </url>
   <url>
@@ -284,7 +287,7 @@
     <loc>https://www.pcsnippets.com/illinois/springfield/tech-store</loc>
   </url>
   <url>
-    <loc>https://www.pcsnippets.com/iowa/cedar-rapids/cedar-rapids-tech-store</loc>
+    <loc>https://www.pcsnippets.com/louisiana/baton-rouge/baton-rouge-fitness</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/kansas/overland-park/overland-park-restaurant</loc>
@@ -293,28 +296,25 @@
     <loc>https://www.pcsnippets.com/iowa/des-moines/des-moines-cafe</loc>
   </url>
   <url>
-    <loc>https://www.pcsnippets.com/louisiana/new-orleans/french-quarter-restaurant</loc>
-  </url>
-  <url>
     <loc>https://www.pcsnippets.com/kansas/wichita/wichita-coffee-house</loc>
   </url>
   <url>
-    <loc>https://www.pcsnippets.com/louisiana/baton-rouge/baton-rouge-fitness</loc>
+    <loc>https://www.pcsnippets.com/louisiana/new-orleans/french-quarter-restaurant</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/mississippi/gulfport/gulfport-cafe</loc>
   </url>
   <url>
-    <loc>https://www.pcsnippets.com/mississippi/jackson/jackson-tech-store</loc>
+    <loc>https://www.pcsnippets.com/missouri/kansas-city/kc-jazz-club</loc>
   </url>
   <url>
-    <loc>https://www.pcsnippets.com/missouri/kansas-city/kc-jazz-club</loc>
+    <loc>https://www.pcsnippets.com/montana/billings/billings-bookstore</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/missouri/st-louis/st-louis-fitness-center</loc>
   </url>
   <url>
-    <loc>https://www.pcsnippets.com/montana/billings/billings-bookstore</loc>
+    <loc>https://www.pcsnippets.com/mississippi/jackson/jackson-tech-store</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/montana/missoula/missoula-yoga-studio</loc>
@@ -341,25 +341,22 @@
     <loc>https://www.pcsnippets.com/new-york/buffalo/niagara-fitness-center</loc>
   </url>
   <url>
+    <loc>https://www.pcsnippets.com/oklahoma/tulsa/tulsa-tech-store</loc>
+  </url>
+  <url>
     <loc>https://www.pcsnippets.com/new-york/new-york/central-park-cafe</loc>
-  </url>
-  <url>
-    <loc>https://www.pcsnippets.com/oregon/portland/portland-bookstore</loc>
-  </url>
-  <url>
-    <loc>https://www.pcsnippets.com/oregon/eugene/eugene-fitness-center</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/oklahoma/oklahoma-city/okc-fitness-center</loc>
   </url>
   <url>
-    <loc>https://www.pcsnippets.com/texas/houston/space-city-tech</loc>
+    <loc>https://www.pcsnippets.com/oregon/eugene/eugene-fitness-center</loc>
+  </url>
+  <url>
+    <loc>https://www.pcsnippets.com/oregon/portland/portland-bookstore</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/texas/austin/live-music-bar</loc>
-  </url>
-  <url>
-    <loc>https://www.pcsnippets.com/oklahoma/tulsa/tulsa-tech-store</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/utah/provo/provo-tech-store</loc>
@@ -368,15 +365,18 @@
     <loc>https://www.pcsnippets.com/utah/salt-lake-city/mountain-view-cafe</loc>
   </url>
   <url>
-    <loc>https://www.pcsnippets.com/washington/spokane/riverfront-restaurant</loc>
+    <loc>https://www.pcsnippets.com/texas/houston/space-city-tech</loc>
   </url>
   <url>
     <loc>https://www.pcsnippets.com/washington/seattle/rain-city-coffee</loc>
   </url>
   <url>
-    <loc>https://www.pcsnippets.com/wyoming/cheyenne/cheyenne-restaurant</loc>
+    <loc>https://www.pcsnippets.com/wyoming/casper/casper-sports-shop</loc>
   </url>
   <url>
-    <loc>https://www.pcsnippets.com/wyoming/casper/casper-sports-shop</loc>
+    <loc>https://www.pcsnippets.com/washington/spokane/riverfront-restaurant</loc>
+  </url>
+  <url>
+    <loc>https://www.pcsnippets.com/wyoming/cheyenne/cheyenne-restaurant</loc>
   </url>
 </urlset>

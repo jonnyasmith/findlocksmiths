@@ -1,0 +1,1 @@
+const s={siteName:"Local Business Directory",itemSingular:"business",itemPlural:"businesses",navAboutLabel:"About Us",seoTitle:"Local Business Directory - Find Businesses Near You",seoDescription:"Browse our comprehensive directory of local businesses including cafes, retail stores, and fitness centers."};export{s as c};
