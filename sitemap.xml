@@ -86,16 +86,16 @@
     <loc>https://findlocksmiths.org/wyoming</loc>
   </url>
   <url>
-    <loc>https://findlocksmiths.org/alabama/birmingham</loc>
-  </url>
-  <url>
-    <loc>https://findlocksmiths.org/alabama/mobile</loc>
-  </url>
-  <url>
     <loc>https://findlocksmiths.org/arizona/phoenix</loc>
   </url>
   <url>
     <loc>https://findlocksmiths.org/arizona/tucson</loc>
+  </url>
+  <url>
+    <loc>https://findlocksmiths.org/alabama/birmingham</loc>
+  </url>
+  <url>
+    <loc>https://findlocksmiths.org/alabama/mobile</loc>
   </url>
   <url>
     <loc>https://findlocksmiths.org/arkansas/fayetteville</loc>
@@ -194,16 +194,16 @@
     <loc>https://findlocksmiths.org/new-york/new-york</loc>
   </url>
   <url>
-    <loc>https://findlocksmiths.org/oregon/eugene</loc>
-  </url>
-  <url>
-    <loc>https://findlocksmiths.org/oregon/portland</loc>
-  </url>
-  <url>
     <loc>https://findlocksmiths.org/oklahoma/oklahoma-city</loc>
   </url>
   <url>
     <loc>https://findlocksmiths.org/oklahoma/tulsa</loc>
+  </url>
+  <url>
+    <loc>https://findlocksmiths.org/oregon/eugene</loc>
+  </url>
+  <url>
+    <loc>https://findlocksmiths.org/oregon/portland</loc>
   </url>
   <url>
     <loc>https://findlocksmiths.org/texas/austin</loc>
@@ -224,12 +224,6 @@
     <loc>https://findlocksmiths.org/washington/spokane</loc>
   </url>
   <url>
-    <loc>https://findlocksmiths.org/alabama/birmingham/birmingham-yoga-studio</loc>
-  </url>
-  <url>
-    <loc>https://findlocksmiths.org/alabama/mobile/mobile-restaurant</loc>
-  </url>
-  <url>
     <loc>https://findlocksmiths.org/wyoming/casper</loc>
   </url>
   <url>
@@ -240,6 +234,12 @@
   </url>
   <url>
     <loc>https://findlocksmiths.org/arizona/tucson/sonoran-restaurant</loc>
+  </url>
+  <url>
+    <loc>https://findlocksmiths.org/alabama/birmingham/birmingham-yoga-studio</loc>
+  </url>
+  <url>
+    <loc>https://findlocksmiths.org/alabama/mobile/mobile-restaurant</loc>
   </url>
   <url>
     <loc>https://findlocksmiths.org/arkansas/fayetteville/fayetteville-cafe</loc>
@@ -272,6 +272,9 @@
     <loc>https://findlocksmiths.org/idaho/idaho-falls/falls-cafe</loc>
   </url>
   <url>
+    <loc>https://findlocksmiths.org/illinois/chicago/windy-city-pizza</loc>
+  </url>
+  <url>
     <loc>https://findlocksmiths.org/illinois/springfield/green-gym</loc>
   </url>
   <url>
@@ -281,19 +284,10 @@
     <loc>https://findlocksmiths.org/illinois/springfield/tech-store</loc>
   </url>
   <url>
-    <loc>https://findlocksmiths.org/illinois/chicago/windy-city-pizza</loc>
-  </url>
-  <url>
-    <loc>https://findlocksmiths.org/iowa/des-moines/des-moines-cafe</loc>
-  </url>
-  <url>
     <loc>https://findlocksmiths.org/iowa/cedar-rapids/cedar-rapids-tech-store</loc>
   </url>
   <url>
-    <loc>https://findlocksmiths.org/kansas/overland-park/overland-park-restaurant</loc>
-  </url>
-  <url>
-    <loc>https://findlocksmiths.org/kansas/wichita/wichita-coffee-house</loc>
+    <loc>https://findlocksmiths.org/iowa/des-moines/des-moines-cafe</loc>
   </url>
   <url>
     <loc>https://findlocksmiths.org/louisiana/new-orleans/french-quarter-restaurant</loc>
@@ -302,31 +296,28 @@
     <loc>https://findlocksmiths.org/louisiana/baton-rouge/baton-rouge-fitness</loc>
   </url>
   <url>
+    <loc>https://findlocksmiths.org/kansas/overland-park/overland-park-restaurant</loc>
+  </url>
+  <url>
+    <loc>https://findlocksmiths.org/kansas/wichita/wichita-coffee-house</loc>
+  </url>
+  <url>
     <loc>https://findlocksmiths.org/mississippi/gulfport/gulfport-cafe</loc>
   </url>
   <url>
     <loc>https://findlocksmiths.org/mississippi/jackson/jackson-tech-store</loc>
   </url>
   <url>
-    <loc>https://findlocksmiths.org/missouri/st-louis/st-louis-fitness-center</loc>
-  </url>
-  <url>
     <loc>https://findlocksmiths.org/missouri/kansas-city/kc-jazz-club</loc>
-  </url>
-  <url>
-    <loc>https://findlocksmiths.org/montana/billings/billings-bookstore</loc>
   </url>
   <url>
     <loc>https://findlocksmiths.org/montana/missoula/missoula-yoga-studio</loc>
   </url>
   <url>
-    <loc>https://findlocksmiths.org/nebraska/omaha/omaha-bookstore</loc>
+    <loc>https://findlocksmiths.org/missouri/st-louis/st-louis-fitness-center</loc>
   </url>
   <url>
-    <loc>https://findlocksmiths.org/nevada/reno/reno-sports-bar</loc>
-  </url>
-  <url>
-    <loc>https://findlocksmiths.org/new-mexico/albuquerque/albuquerque-cafe</loc>
+    <loc>https://findlocksmiths.org/montana/billings/billings-bookstore</loc>
   </url>
   <url>
     <loc>https://findlocksmiths.org/nebraska/lincoln/lincoln-yoga-studio</loc>
@@ -335,28 +326,37 @@
     <loc>https://findlocksmiths.org/nevada/las-vegas/strip-entertainment</loc>
   </url>
   <url>
+    <loc>https://findlocksmiths.org/nebraska/omaha/omaha-bookstore</loc>
+  </url>
+  <url>
+    <loc>https://findlocksmiths.org/new-mexico/albuquerque/albuquerque-cafe</loc>
+  </url>
+  <url>
     <loc>https://findlocksmiths.org/new-mexico/santa-fe/santa-fe-art-gallery</loc>
+  </url>
+  <url>
+    <loc>https://findlocksmiths.org/nevada/reno/reno-sports-bar</loc>
   </url>
   <url>
     <loc>https://findlocksmiths.org/new-york/buffalo/niagara-fitness-center</loc>
   </url>
   <url>
-    <loc>https://findlocksmiths.org/oregon/eugene/eugene-fitness-center</loc>
-  </url>
-  <url>
     <loc>https://findlocksmiths.org/new-york/new-york/central-park-cafe</loc>
   </url>
   <url>
-    <loc>https://findlocksmiths.org/oregon/portland/portland-bookstore</loc>
+    <loc>https://findlocksmiths.org/oklahoma/oklahoma-city/okc-fitness-center</loc>
   </url>
   <url>
     <loc>https://findlocksmiths.org/oklahoma/tulsa/tulsa-tech-store</loc>
   </url>
   <url>
-    <loc>https://findlocksmiths.org/texas/austin/live-music-bar</loc>
+    <loc>https://findlocksmiths.org/oregon/eugene/eugene-fitness-center</loc>
   </url>
   <url>
-    <loc>https://findlocksmiths.org/oklahoma/oklahoma-city/okc-fitness-center</loc>
+    <loc>https://findlocksmiths.org/oregon/portland/portland-bookstore</loc>
+  </url>
+  <url>
+    <loc>https://findlocksmiths.org/texas/austin/live-music-bar</loc>
   </url>
   <url>
     <loc>https://findlocksmiths.org/texas/houston/space-city-tech</loc>

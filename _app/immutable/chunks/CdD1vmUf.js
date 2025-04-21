@@ -1,1 +1,0 @@
-function a(t){return{"@context":"https://schema.org","@type":"BreadcrumbList",itemListElement:t.map((e,n)=>({"@type":"ListItem",position:n+1,name:e.name,item:e.url}))}}function r(t){return{"@context":"https://schema.org","@type":"FAQPage",mainEntity:t.map(e=>({"@type":"Question",name:e.question,acceptedAnswer:{"@type":"Answer",text:e.answer}}))}}export{r as a,a as g};
